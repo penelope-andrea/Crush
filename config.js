@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'Sau dịch đi luôn',
     mess: 'Chòi t biết mà, iu m 😘',
     messDesc: 'Tối nay call t nha',
-    btnAccept: 'Oke',
+    btnAccept: 'Oke.',
     messLink: 'https://www.facebook.com/'
 }
